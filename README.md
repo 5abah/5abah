@@ -8,8 +8,7 @@
 
 I'm interested in systems programming, embedded software, operating systems, and computer architecture. I enjoy building software that runs close to the hardware and understanding how computers work from the ground up.
 
-<summary>### Currently</summary>
-
+### Currently
 - Working on a Game Boy emulator targeting the STM32F446RE.
 - Learning more about concurrent programming, low-latency systems, and high-performance software design.
 
